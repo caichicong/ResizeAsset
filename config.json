@@ -1,0 +1,7 @@
+{
+  "images" : [
+ { "width2x" : 20, "width3x" : 40, "name" : "play.png"},
+ { "width2x" : 100, "width3x" : 200, "name" : "test.jpg"},
+ { "width2x" : 100, "width3x" : 200, "name" : "sound3.gif"}
+  ]  
+}
