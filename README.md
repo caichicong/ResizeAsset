@@ -1,3 +1,5 @@
+＃ config.json示例
+
 ```   
     {
         "images" : [
@@ -9,4 +11,11 @@
 ```
 
 width2x 代表2倍图宽度
+
 width3x 代表3倍图宽度
+
+＃ 用法
+```
+chmod a+x resize.php
+./resize.php
+```
