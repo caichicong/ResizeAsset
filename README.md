@@ -20,3 +20,5 @@ width3x 代表3倍图宽度
 chmod a+x resize.php
 ./resize.php
 ```
+
+生成的图片会保存在out文件夹里面
